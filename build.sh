@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build -t uwsgi:python2.7 .
+docker build -t zsyh/uwsgi:python2.7 .
